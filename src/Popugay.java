@@ -1,4 +1,4 @@
-public class Papugay {
+public class Popugay {
 
 
     private String name;
